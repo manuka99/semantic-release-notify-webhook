@@ -1,0 +1,26 @@
+{
+  "name": "semantic-release-notify-webhook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "npx jest"
+  },
+  "author": {
+    "name": "Manuka Yasas",
+    "email": "manukayasas99@gmail.com",
+    "url": "https://manukayasas.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "markdown-to-text": "^0.1.1",
+    "node-fetch": "^2.6.1",
+    "url": "^0.11.4"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
